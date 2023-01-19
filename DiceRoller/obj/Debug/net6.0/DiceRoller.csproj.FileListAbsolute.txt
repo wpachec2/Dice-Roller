@@ -1,0 +1,15 @@
+/Users/wilchec/Projects/DiceRoller/DiceRoller/bin/Debug/net6.0/DiceRoller
+/Users/wilchec/Projects/DiceRoller/DiceRoller/bin/Debug/net6.0/DiceRoller.deps.json
+/Users/wilchec/Projects/DiceRoller/DiceRoller/bin/Debug/net6.0/DiceRoller.runtimeconfig.json
+/Users/wilchec/Projects/DiceRoller/DiceRoller/bin/Debug/net6.0/DiceRoller.dll
+/Users/wilchec/Projects/DiceRoller/DiceRoller/bin/Debug/net6.0/DiceRoller.pdb
+/Users/wilchec/Projects/DiceRoller/DiceRoller/obj/Debug/net6.0/DiceRoller.csproj.AssemblyReference.cache
+/Users/wilchec/Projects/DiceRoller/DiceRoller/obj/Debug/net6.0/DiceRoller.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wilchec/Projects/DiceRoller/DiceRoller/obj/Debug/net6.0/DiceRoller.AssemblyInfoInputs.cache
+/Users/wilchec/Projects/DiceRoller/DiceRoller/obj/Debug/net6.0/DiceRoller.AssemblyInfo.cs
+/Users/wilchec/Projects/DiceRoller/DiceRoller/obj/Debug/net6.0/DiceRoller.csproj.CoreCompileInputs.cache
+/Users/wilchec/Projects/DiceRoller/DiceRoller/obj/Debug/net6.0/DiceRoller.dll
+/Users/wilchec/Projects/DiceRoller/DiceRoller/obj/Debug/net6.0/refint/DiceRoller.dll
+/Users/wilchec/Projects/DiceRoller/DiceRoller/obj/Debug/net6.0/DiceRoller.pdb
+/Users/wilchec/Projects/DiceRoller/DiceRoller/obj/Debug/net6.0/DiceRoller.genruntimeconfig.cache
+/Users/wilchec/Projects/DiceRoller/DiceRoller/obj/Debug/net6.0/ref/DiceRoller.dll
