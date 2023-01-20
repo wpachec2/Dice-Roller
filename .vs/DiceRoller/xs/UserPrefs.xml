@@ -1,14 +1,11 @@
 ﻿<Properties StartupConfiguration="{DAA7619E-546D-47A9-9325-BAC62254E918}|Default">
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.DiceRoller PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.DiceRoller PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="DiceRoller/Program.cs">
     <Files>
-      <File FileName="DiceRoller/Program.cs" Line="16" Column="1" />
+      <File FileName="DiceRoller/Program.cs" Line="14" Column="69" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -20,4 +17,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>

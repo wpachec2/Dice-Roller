@@ -11,19 +11,12 @@ bool restart = true;
 while (restart)
 {
     //User Input
-    Console.Write("How many sides should each die have? ");
+    Console.Write("How many sides should each die have? Enter 1-20: ");
     int sides = 0;
 
-    while (true)
+    while (!int.TryParse(Console.ReadLine(), out sides) || sides < 0 || sides > 20)
     {
-        while (!int.TryParse(Console.ReadLine(), out sides) || sides < 0 || sides > int.MaxValue)
-        {
-            Console.Write("Invalid entry, Please try again: ");
-        }
-        if (sides > 0 && sides < 21)
-        {
-            break;
-        }
+        Console.Write("Invalid entry, Please try again: ");
     }
 
     //Dice Variables
